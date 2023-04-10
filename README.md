@@ -1,7 +1,5 @@
-# Essential Todos
-A demo project for the YouTube video: Clean Architecture in React.
-
-Link to the video: https://youtu.be/qOH2X5hciiA
+## Clean Architecture in react
+A demo project to show a practical application of clean architecture in react
 
 ## Built with Clean Architecture
 - Application - Redux
